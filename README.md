@@ -1,4 +1,4 @@
-# ARCH Workshop: Healthcare Data Wrangling in Python & Jupyter - I [WS9]
+# ARCH Workshop: Core Python Skills for Working with Healthcare Data [WS13]
 
 ## 3 Options to Follow Along with the Hands On Module(s)
 
