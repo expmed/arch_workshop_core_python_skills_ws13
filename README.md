@@ -61,7 +61,10 @@ If Python is installed, you’ll see an output like `Python 3.x.x`. If not, foll
    ```sh
    pip install -r requirements.txt
    ```  
-
+4. Install jupyter:
+  ```sh
+  pip install jupyter
+  ```
 ---
 
 ### **Step 3: Start Jupyter Notebook**  
